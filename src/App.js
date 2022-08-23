@@ -58,3 +58,4 @@ export default class Timer extends Component {
 // a user input for the start amount of minutes/seconds
 // hour functionality
 // reset button
+// input time button
